@@ -1,0 +1,45 @@
+{% include base_path %}
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <!-- 标题 -->
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ base_path }}{{ include.ip.url }}" rel="permalink">{{ include.ip.title }}</a>
+    </h2>
+
+    <!--知识产权类型 -->
+    {% if include.ip.type %}
+      <p><strong>Type:</strong> {{ include.ip.type }}</p>
+    {% endif %}
+
+    <!-- 编号 -->
+    {% if include.ip.number %}
+      <p><strong>No.:</strong> {{ include.ip.number }}</p>
+    {% endif %}
+
+    <!-- 状态 -->
+    {% if include.ip.status %}
+      <p><strong>Status:</strong> {{ include.ip.status }}</p>
+    {% endif %}
+
+    <!-- 发明人 -->
+    {% if include.ip.inventors %}
+      <p><strong>Inventors:</strong> {{ include.ip.inventors | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+    {% endif %}
+
+
+    <!-- 机构 -->
+    {% if include.ip.institution %}
+      <p><strong>Institution:</strong> {{ include.ip.institution }}</p>
+    {% endif %}
+
+    <!-- 简短描述 -->
+    {% if include.ip.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ include.ip.excerpt | markdownify }}
+      </p>
+    {% endif %}
+
+  </article>
+</div>

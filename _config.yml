@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US" 
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhuo Xiao / Homepage"
+title                    : "Zhuo Xiao's Homepage"
 title_separator          : "-"
 name                     : &name "Zhuo Xiao"
 description              : &description "Ph.D. candidate in Pattern Recognition & Intelligent System at Beihang University"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -230,21 +230,22 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  ips:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # _ips
   - scope:
       path: ""
-      type: posts
+      type: ips
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
       share: true
-      related: true
   # _pages
   - scope:
       path: ""
