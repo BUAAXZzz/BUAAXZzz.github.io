@@ -40,9 +40,25 @@ Our work on **Automatic planning for head and neck seed implant brachytherapy** 
 
 ### Treatment Planning System (TPS) Interface
 
-I have also developed a prototype **Treatment Planning System (TPS)** for brachytherapy and tumor ablation, featuring modules for needle trajectory planning, dose optimization, and 3D visualization.
+I have also developed **Treatment Planning Systems (TPS)** for brachytherapy and tumor ablation, featuring modules for needle trajectory planning, dose optimization, and 3D visualization.
 
-![Treatment Planning System Interface](/images/tps_interface.png)
+<figure>
+  <img src="/images/tps_interface.png" alt="Treatment Planning System Interface1">
+  <figcaption>Figure 1. <a href="https://www.bjthkl.com/" target="_blank">Seed Implant Brachytherapy TPS</a> Interface: Segmentation Page</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/tps_plan.png" alt="Treatment Planning System Interface2">
+  <figcaption>Figure 2. <a href="https://www.bjthkl.com/" target="_blank">Seed Implant Brachytherapy TPS</a> Interface: Planning Page</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/eco_tps.png" alt="MWA TPS Interface">
+  <figcaption>
+    Figure 3. MWA TPS Interface, developed in collaboration with 
+    <a href="https://www.njeco.cn/" target="_blank">ECO Medical (Nanjing)</a>.
+  </figcaption>
+</figure>
 
 
 Contact

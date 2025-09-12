@@ -3,7 +3,7 @@ title: "Development of an Intelligent Microwave Ablation Treatment Planning Syst
 collection: talks
 type: "Talk"
 permalink: /talks/2023-06-16-ccma-intelligent-mwa-planning
-venue: "CCMA & WTAA 2023 – 5th Jinling Summit Forum on Tumor Ablation & Preparatory Conference of the World Tumor Ablation Association (WTAA)"
+venue: "CCMA & WTAA 2023"
 date: 2023-06-16
 location: "Nanjing, China"
 ---

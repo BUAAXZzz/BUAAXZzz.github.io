@@ -1,7 +1,7 @@
 ---
 title: "An Adaptive Feature Aggregation-Enhanced DCNN for Real-Time CT Reconstruction and Tumor Segmentation from Single X-Ray Projections"
 collection: talks
-type: "Talk"
+type: "Oral Presentation"
 permalink: /talks/2024-07-01-adaptive-feature-dcnn-ct-reconstruction
 venue: "AAPM 66th Annual Meeting & Exhibition"
 date: 2024-07-01
