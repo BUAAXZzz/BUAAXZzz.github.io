@@ -23,5 +23,10 @@ var addressPoints = [
     "Development of an Intelligent Microwave Ablation Treatment Planning System<br />CCMA & WTAA 2023; Nanjing, China",
     32.0438284,
     118.7788631
+  ],
+  [
+    "Automatic Treatment Planning for Head and Neck Seed Implant Brachytherapy Based on a Deep Convolutional Neural Network Dose Engine<br />Annual Youth Symposium on Medical Physics; Online",
+    43.5904719,
+    3.8595132
   ]
 ];
