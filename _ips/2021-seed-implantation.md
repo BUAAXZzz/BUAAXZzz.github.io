@@ -8,5 +8,5 @@ type: "Invention Patent"
 status: "Granted"
 inventors: "Bo Liu, **Zhuo Xiao**, Fugen Zhou"
 excerpt: "A simulation method and device for seed implantation needle arrangement."
-permalink: /ips/2021/seed-implantation/
+redirect_to: https://d.wanfangdata.com.cn/patent/Ch1QYXRlbnROZXdTb2xyOVMyMDI1MDkxMDA4NTcyOBIpWkxfQ04yMDIxMTEwMzEwNDYuNl9DTjExMzYyODIwOUJfMjAyMzExMDMaCHZ0YW5ndnU1
 ---

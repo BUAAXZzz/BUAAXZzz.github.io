@@ -8,5 +8,5 @@ type: "Invention Patent"
 status: "Granted"
 inventors: "Bo Liu, **Zhuo Xiao**, Hao Xu, Fugen Zhou"
 excerpt: "A medical image needle path detection method and device."
-permalink: /ips/2021/needle-path-detection/
+redirect_to: https://d.wanfangdata.com.cn/patent/Ch1QYXRlbnROZXdTb2xyOVMyMDI1MDkxMDA4NTcyOBIpWkxfQ04yMDIxMTEwODY1MDcuWF9DTjExMzcyNDI0OEJfMjAyNDAzMjYaCG91ZnJ2cjY5
 ---

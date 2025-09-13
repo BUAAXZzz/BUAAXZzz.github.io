@@ -21,7 +21,7 @@ Education & Experience
 - **B.Eng. in Detection, Guidance and Control**, NUAA, School of Astronautics *(2015 – 2019)*  
   Graduated with GPA **3.8/5.0**, ranked **4/36**, and obtained qualification for **recommended exemption to graduate study**.  
 
-- **High School Diploma**, The First High School of Changsha *(2012 – 2015)*
+- **High School**, The First High School of Changsha *(2012 – 2015)*
 
 - **Research Assistant**, Beihang University, Image Processing Center *(2022-2023)*  
   Worked on developing TPS for radiotherapy & ablation planning".  

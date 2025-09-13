@@ -7,7 +7,8 @@ excerpt: 'This paper presents an automatic treatment planning framework for head
 date: 2024-02-01
 venue: 'Medical Physics'
 slidesurl: ''
-paperurl: 'https://doi.org/10.1002/mp.17133'
+paperurl: 'https://doi.org/10.1002/mp.16760'
 bibtexurl: ''
 citation: 'Xiao, Z., Xiong, T., Geng, L., Zhou, F., Liu, B., Sun, H., Ji, Z., Jiang, Y., Wang, J., & Wu, Q. (2024). "Automatic planning for head and neck seed implant brachytherapy based on deep convolutional neural network dose engine." <i>Medical Physics</i>, 51(2), 1460–1473.'
+image: /images/publications/mp2024.png
 ---

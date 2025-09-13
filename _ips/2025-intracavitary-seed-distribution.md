@@ -8,5 +8,5 @@ type: "PCT Patent"
 status: "Pending"
 inventors: "Bo Liu, **Zhuo Xiao**, Qinglong Yao, Fugen Zhou"
 excerpt: "A simulation method and device for intracavitary radioactive seed source distribution."
-permalink: /ips/2025/intracavitary-seed-distribution/
+redirect_to: https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=WO&NR=2025102522&KC=A1
 ---

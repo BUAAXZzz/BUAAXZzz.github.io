@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US" 
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhuo Xiao's Homepage"
+title                    : "Zhuo Xiao（肖卓）"
 title_separator          : "-"
 name                     : &name "Zhuo Xiao"
 description              : &description "Ph.D. candidate in Pattern Recognition & Intelligent System at Beihang University"   # Update this with a general description of your site, this is the default if not overridden by a page
