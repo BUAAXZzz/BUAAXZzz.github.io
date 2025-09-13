@@ -54,12 +54,12 @@ I have also developed **Treatment Planning Systems (TPS)** for brachytherapy and
 
 <figure>
   <img src="/images/tps/tps_plan.png" alt="Treatment Planning System Planning">
-  <figcaption>Figure 3. <a href="https://www.bjthkl.com/" target="_blank">Seed Implant Brachytherapy TPS</a> Interface: Planning Page</figcaption>
+  <figcaption>Figure 3. <a href="https://www.bjthkl.com/" target="_blank">Seed Implant Brachytherapy TPS</a> Interface: Planning Page.</figcaption>
 </figure>
 
 <figure>
   <img src="/images/tps/tps_seed_picking.png" alt="Treatment Planning System Post">
-  <figcaption>Figure 4. <a href="https://www.bjthkl.com/" target="_blank">Seed Implant Brachytherapy TPS</a> Interface: A postoperative validation interface that automatically detects implanted seeds and reconstructs the corresponding postoperative dose distribution.</figcaption>
+  <figcaption>Figure 4. <a href="https://www.bjthkl.com/" target="_blank">Seed Implant Brachytherapy TPS</a> Interface: A postoperative validation interface that <a href="https://ieeexplore.ieee.org/document/7450342" target="_blank">automatically detects implanted seeds</a> and reconstructs the corresponding postoperative dose distribution.</figcaption>
 </figure>
 
 <figure>
@@ -73,7 +73,7 @@ I have also developed **Treatment Planning Systems (TPS)** for brachytherapy and
 <figure>
   <img src="/images/tps/nanoKnife.png" alt="NanoKife TPS Interface">
   <figcaption>
-    Figure 6. Irreversible Electroporation TPS Interface</a>.
+    Figure 6. Irreversible Electroporation(Nano) TPS Interface, a demo.
   </figcaption>
 </figure>
 

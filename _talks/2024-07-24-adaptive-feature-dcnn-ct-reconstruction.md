@@ -4,7 +4,7 @@ collection: talks
 type: "Oral Presentation"
 permalink: /talks/2024-07-01-adaptive-feature-dcnn-ct-reconstruction
 venue: "AAPM 66th Annual Meeting & Exhibition"
-date: 2024-07-01
+date: 2024-07-24
 location: "Los Angeles, CA, USA"
 ---
 
