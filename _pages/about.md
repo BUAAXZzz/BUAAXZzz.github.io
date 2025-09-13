@@ -40,23 +40,40 @@ Our work on **Automatic planning for head and neck seed implant brachytherapy** 
 
 ### Treatment Planning System (TPS) Interface
 
-I have also developed **Treatment Planning Systems (TPS)** for brachytherapy and tumor ablation, featuring modules for needle trajectory planning, dose optimization, and 3D visualization.
+I have also developed **Treatment Planning Systems (TPS)** for brachytherapy and tumor ablation, incorporating modules for automatic organ and tumor segmentation, needle trajectory planning, dose optimization, and 3D visualization. Several of these systems have been successfully translated into clinical use.
 
 <figure>
-  <img src="/images/tps_interface.png" alt="Treatment Planning System Interface1">
-  <figcaption>Figure 1. <a href="https://www.bjthkl.com/" target="_blank">Seed Implant Brachytherapy TPS</a> Interface: Segmentation Page</figcaption>
+  <img src="/images/tps/tps_seg.png" alt="Treatment Planning System ManualSeg">
+  <figcaption>Figure 1. <a href="https://www.bjthkl.com/" target="_blank">Seed Implant Brachytherapy TPS</a> Interface: Manual Segmentation Page</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/tps_plan.png" alt="Treatment Planning System Interface2">
-  <figcaption>Figure 2. <a href="https://www.bjthkl.com/" target="_blank">Seed Implant Brachytherapy TPS</a> Interface: Planning Page</figcaption>
+  <img src="/images/tps/tps_autoseg.png" alt="Treatment Planning System AutoSeg">
+  <figcaption>Figure 2. <a href="https://www.bjthkl.com/" target="_blank">Seed Implant Brachytherapy TPS</a>: Automatic Segmentation Page, Integrated automatic segmentation algorithms for tumors and organs-at-risk (OARs) across different anatomical sites, including both traditional image processing techniques and deep learning methods.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/eco_tps.png" alt="MWA TPS Interface">
+  <img src="/images/tps/tps_plan.png" alt="Treatment Planning System Planning">
+  <figcaption>Figure 3. <a href="https://www.bjthkl.com/" target="_blank">Seed Implant Brachytherapy TPS</a> Interface: Planning Page</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/tps/tps_seed_picking.png" alt="Treatment Planning System Post">
+  <figcaption>Figure 4. <a href="https://www.bjthkl.com/" target="_blank">Seed Implant Brachytherapy TPS</a> Interface: A postoperative validation interface that automatically detects implanted seeds and reconstructs the corresponding postoperative dose distribution.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/tps/eco_tps.png" alt="MWA TPS Interface">
   <figcaption>
-    Figure 3. MWA TPS Interface, developed in collaboration with 
+    Figure 5. MWA TPS Interface, developed in collaboration with 
     <a href="https://www.njeco.cn/" target="_blank">ECO Medical (Nanjing)</a>.
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="/images/tps/nanoKnife.png" alt="NanoKife TPS Interface">
+  <figcaption>
+    Figure 6. Irreversible Electroporation TPS Interface</a>.
   </figcaption>
 </figure>
 
