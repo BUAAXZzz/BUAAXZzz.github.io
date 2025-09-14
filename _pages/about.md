@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year Ph.D. student at the Image Processing Center of Beihang University, under the supervision of Professor [Fugen Zhou](http://www.sa.buaa.edu.cn/info/1148/11086.htm) and Associate Professor [Bo Liu](https://shi.buaa.edu.cn/liubo2/zh_CN/index/154719/list/index.htm). My research focuses on medical image analysis, automatic treatment planning for brachytherapy and tumor ablation, as well as the development of treatment planning systems (TPS).
+I am a second-year Ph.D. student at the Image Processing Center of Beihang University, under the supervision of Professor [Fugen Zhou](http://www.sa.buaa.edu.cn/info/1148/11086.htm) and Associate Professor [Bo Liu](https://shi.buaa.edu.cn/liubo2/zh_CN/index/154719/list/index.htm). My research focuses on medical image analysis, automatic treatment planning for brachytherapy and tumor ablation, as well as the development of treatment planning systems (TPS), **many of which have already been applied in clinical practice**.
 
 Education & Experience
 ======
