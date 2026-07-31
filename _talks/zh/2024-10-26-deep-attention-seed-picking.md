@@ -14,3 +14,10 @@ excerpt: "介绍基于深度注意力回归卷积神经网络的术后 CT 放射
 ---
 
 本报告在成都举行的中华医学会医学物理学分会第十八届学术年会上进行，介绍了一种基于深度注意力回归卷积神经网络的术后 CT 放射性粒子自动拾取方法。
+
+<figure>
+  <a href="/images/talks/2024CSMP.jpg">
+    <img src="/images/talks/2024CSMP.jpg" alt="CSMP 2024 成都学术汇报现场" loading="lazy">
+  </a>
+  <figcaption>中华医学会医学物理学分会第十八届学术年会（CSMP 2024）成都学术汇报现场。</figcaption>
+</figure>

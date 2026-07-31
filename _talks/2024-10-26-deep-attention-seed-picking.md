@@ -13,3 +13,10 @@ location: "Chengdu, China"
 ---
 
 This talk was presented at the 18th Annual Conference of the Chinese Society of Medical Physics (CSMP), held in Chengdu, China. The presentation introduced an automatic postoperative CT radioactive seed picking method based on a deep attention regression convolutional neural network.
+
+<figure>
+  <a href="/images/talks/2024CSMP.jpg">
+    <img src="/images/talks/2024CSMP.jpg" alt="Presentation at CSMP 2024 in Chengdu" loading="lazy">
+  </a>
+  <figcaption>Presentation at the 18th Annual Conference of the Chinese Society of Medical Physics (CSMP 2024) in Chengdu.</figcaption>
+</figure>
