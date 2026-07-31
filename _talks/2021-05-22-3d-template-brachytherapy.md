@@ -2,7 +2,11 @@
 title: "Optimization of Needle Positions and Dwell Times for 3D Individualized Template-Guided Interstitial Brachytherapy"
 collection: talks
 type: "Talk"
+talk_type: "Talk"
 permalink: /talks/2021-05-22-3d-template-brachytherapy
+lang: en
+locale: en-US
+translation_url: /zh/talks/2021-05-22-3d-template-brachytherapy/
 venue: "17th Annual Conference of the Chinese Society of Medical Physics (CSMP 2021)"
 date: 2021-05-22
 location: "Wuhan, China"

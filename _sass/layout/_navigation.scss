@@ -225,12 +225,34 @@
       }
     }
 
-    #theme-toggle {
+    #theme-toggle,
+    #language-toggle {
       a {
-        width: 25px;
         display: flex;
+        align-items: center;
         justify-content: center;
         cursor: pointer;
+      }
+    }
+
+    #theme-toggle a {
+      width: 25px;
+    }
+
+    #language-toggle {
+      a {
+        margin-right: 0.65rem;
+        font-size: $type-size-7;
+        white-space: nowrap;
+      }
+
+      .language-current {
+        font-weight: 700;
+      }
+
+      .language-separator {
+        padding: 0 0.18em;
+        opacity: 0.55;
       }
     }
 

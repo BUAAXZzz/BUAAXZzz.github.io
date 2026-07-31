@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "助教经历"
+permalink: /zh/teaching/
+author_profile: true
+lang: zh
+locale: zh-CN
+translation_url: /teaching/
+description: "肖卓的助教经历"
+---
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% if post.lang != "zh" %}
+    {% continue %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}

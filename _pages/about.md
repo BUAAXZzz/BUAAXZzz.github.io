@@ -1,17 +1,20 @@
 ---
 permalink: /
 author_profile: true
+lang: en
+locale: en-US
+translation_url: /zh/
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a third-year Ph.D. student at the Image Processing Center of Beihang University, under the supervision of Professor [Fugen Zhou](https://dblp.org/pid/26/4854.html) and Associate Professor [Bo Liu](https://shi.buaa.edu.cn/liubo2/zh_CN/index/154719/list/index.htm). My research focuses on medical image analysis, automatic treatment planning for brachytherapy and tumor ablation, as well as the development of treatment planning systems (TPS), **many of which have already been applied in clinical practice**.
+I am a third-year Ph.D. student at the Image Processing Center of Beihang University, under the supervision of Professor [Fugen Zhou](https://dblp.org/pid/26/4854.html) and Associate Professor [Bo Liu](https://shi.buaa.edu.cn/liubo2/zh_CN/index/154719/list/index.htm), with guidance and research collaboration from Professor [Qiuwen Wu](https://radonc.duke.edu/profile/qiuwen-wu). My research focuses on medical image analysis, multi-modal large models, 3D image-guided surgical instrument localization, automatic treatment planning, as well as the development of treatment planning systems (TPS), **many of which have already been applied in clinical practice**.
 
 Education & Experience
 ======
 
 - **Ph.D. Student in Pattern Recognition and Intelligent Systems**, Beihang University, Image Processing Center *(2023 – Present)*  
-  Research focuses on medical image analysis, automatic treatment planning for brachytherapy and tumor ablation, and the development of TPS.  
+  Research focuses on medical image analysis, automatic treatment planning and 3D image-guided surgical instrument localization.  
   Supervisors: Prof. Fugen Zhou and Assoc. Prof. Bo Liu.  
 
 - **M.Eng. in Electronic and Information Science**, Beihang University, Image Processing Center *(2019 – 2022)*  

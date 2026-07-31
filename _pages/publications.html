@@ -3,6 +3,9 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+lang: en
+locale: en-US
+translation_url: /zh/publications/
 ---
 
 {% if site.author.googlescholar %}
@@ -16,6 +19,9 @@ author_profile: true
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
+      {% if post.lang != "en" %}
+        {% continue %}
+      {% endif %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
@@ -31,6 +37,5 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
 
 

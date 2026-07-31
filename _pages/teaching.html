@@ -1,12 +1,18 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Assistant"
 permalink: /teaching/
 author_profile: true
+lang: en
+locale: en-US
+translation_url: /zh/teaching/
 ---
 
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
+  {% if post.lang != "en" %}
+    {% continue %}
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}

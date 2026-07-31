@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "学术报告与会议交流"
+permalink: /zh/talks/
+author_profile: true
+lang: zh
+locale: zh-CN
+translation_url: /talks/
+description: "肖卓的学术报告与会议交流"
+---
+
+{% for post in site.talks reversed %}
+  {% if post.lang != "zh" %}
+    {% continue %}
+  {% endif %}
+  {% include archive-single-talk.html %}
+{% endfor %}

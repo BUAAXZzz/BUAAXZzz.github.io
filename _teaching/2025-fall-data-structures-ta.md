@@ -3,6 +3,9 @@ title: "Teaching Assistant for Data Structures"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-data-structures-ta
+lang: en
+locale: en-US
+translation_url: /zh/teaching/2025-fall-data-structures-ta/
 venue: "Beihang University, School of Astronautics"
 date: 2025-09-01
 location: "Beijing, China"

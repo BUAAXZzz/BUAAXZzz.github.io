@@ -1,0 +1,24 @@
+---
+layout: archive
+title: "知识产权"
+permalink: /zh/ips/
+author_profile: true
+lang: zh
+locale: zh-CN
+translation_url: /ips/
+description: "肖卓的专利与软件著作权"
+---
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for ip in site.ips %}
+  {% if ip.lang != "zh" %}
+    {% continue %}
+  {% endif %}
+  {% capture year %}{{ ip.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-ip.html ip=ip %}
+{% endfor %}

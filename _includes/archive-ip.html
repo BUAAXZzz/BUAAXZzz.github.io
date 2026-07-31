@@ -1,4 +1,17 @@
 {% include base_path %}
+{% if page.lang == "zh" %}
+  {% assign type_label = "类型：" %}
+  {% assign number_label = "编号：" %}
+  {% assign status_label = "状态：" %}
+  {% assign inventors_label = "发明人：" %}
+  {% assign institution_label = "机构：" %}
+{% else %}
+  {% assign type_label = "Type:" %}
+  {% assign number_label = "No.:" %}
+  {% assign status_label = "Status:" %}
+  {% assign inventors_label = "Inventors:" %}
+  {% assign institution_label = "Institution:" %}
+{% endif %}
 
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -10,28 +23,28 @@
 
     <!--知识产权类型 -->
     {% if include.ip.type %}
-      <p><strong>Type:</strong> {{ include.ip.type }}</p>
+      <p><strong>{{ type_label }}</strong> {{ include.ip.type }}</p>
     {% endif %}
 
     <!-- 编号 -->
     {% if include.ip.number %}
-      <p><strong>No.:</strong> {{ include.ip.number }}</p>
+      <p><strong>{{ number_label }}</strong> {{ include.ip.number }}</p>
     {% endif %}
 
     <!-- 状态 -->
     {% if include.ip.status %}
-      <p><strong>Status:</strong> {{ include.ip.status }}</p>
+      <p><strong>{{ status_label }}</strong> {{ include.ip.status }}</p>
     {% endif %}
 
     <!-- 发明人 -->
     {% if include.ip.inventors %}
-      <p><strong>Inventors:</strong> {{ include.ip.inventors | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      <p><strong>{{ inventors_label }}</strong> {{ include.ip.inventors | markdownify | remove: "<p>" | remove: "</p>" }}</p>
     {% endif %}
 
 
     <!-- 机构 -->
     {% if include.ip.institution %}
-      <p><strong>Institution:</strong> {{ include.ip.institution }}</p>
+      <p><strong>{{ institution_label }}</strong> {{ include.ip.institution }}</p>
     {% endif %}
 
     <!-- 简短描述 -->

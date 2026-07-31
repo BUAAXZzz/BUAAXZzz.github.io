@@ -79,6 +79,17 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+# Chinese author profile shown on pages under /zh/.
+author_zh:
+  avatar           : "xz-profile.jpg"
+  name             : "肖卓"
+  bio              : "博士研究生"
+  location         : "北京"
+  employer         : "北京航空航天大学"
+  email            : "pete709@buaa.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=r0taeWkAAAAJ&hl=zh-CN&oi=ao"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-5389-0755"
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:

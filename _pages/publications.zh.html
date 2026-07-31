@@ -1,0 +1,31 @@
+---
+layout: archive
+title: "论文"
+permalink: /zh/publications/
+author_profile: true
+lang: zh
+locale: zh-CN
+translation_url: /publications/
+description: "肖卓的期刊论文与会议论文"
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">也可以访问<a href="{{ site.author.googlescholar }}">我的 Google Scholar 主页</a>。</div>
+{% endif %}
+
+{% include base_path %}
+
+{% assign publication_categories = "manuscripts,conferences" | split: "," %}
+{% for category in publication_categories %}
+  {% assign title_shown = false %}
+  {% for post in site.publications reversed %}
+    {% if post.lang != "zh" or post.category != category %}
+      {% continue %}
+    {% endif %}
+    {% unless title_shown %}
+      <h2>{% if category == "manuscripts" %}期刊论文{% else %}会议论文{% endif %}</h2><hr />
+      {% assign title_shown = true %}
+    {% endunless %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}

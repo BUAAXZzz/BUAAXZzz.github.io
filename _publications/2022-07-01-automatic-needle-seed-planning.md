@@ -3,6 +3,9 @@ title: "An Automatic Needle and Seed Planning Algorithm for Head and Neck Seed I
 collection: publications
 category: conferences
 permalink: /publication/2022-07-01-automatic-needle-seed-planning
+lang: en
+locale: en-US
+translation_url: /zh/publication/2022-07-01-automatic-needle-seed-planning/
 excerpt: 'This work presents an automatic planning algorithm for needle and seed placement in head and neck seed implant brachytherapy, evaluated in the context of the AAPM annual meeting.'
 date: 2022-07-01
 venue: 'Medical Physics (AAPM 64th Annual Meeting Abstract & Poster)'

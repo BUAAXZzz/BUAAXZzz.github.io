@@ -3,6 +3,9 @@ title: "An Iterative LLM Framework for SIBT utilizing RAG-based Adaptive Weight 
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-10-iterative-llm-framework-sibt
+lang: en
+locale: en-US
+translation_url: /zh/publication/2025-09-10-iterative-llm-framework-sibt/
 excerpt: 'This paper proposes an iterative large language model (LLM) framework for seed implant brachytherapy (SIBT), leveraging retrieval-augmented generation (RAG) and adaptive weight optimization to enhance treatment planning.'
 date: 2025-09-10
 venue: 'arXiv preprint arXiv:2509.08407'

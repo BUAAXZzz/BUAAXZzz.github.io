@@ -3,11 +3,17 @@ layout: archive
 title: "Intellectual Properties"
 permalink: /ips/
 author_profile: true
+lang: en
+locale: en-US
+translation_url: /zh/ips/
 ---
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for ip in site.ips %}
+  {% if ip.lang != "en" %}
+    {% continue %}
+  {% endif %}
   {% capture year %}{{ ip.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>

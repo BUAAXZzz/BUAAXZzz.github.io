@@ -3,6 +3,9 @@ title: "Multi-Catheter Digitization in Brachytherapy via Few-Shot Synthetic-to-R
 collection: publications
 category: manuscripts
 permalink: /publication/2026-07-13-multi-catheter-digitization
+lang: en
+locale: en-US
+translation_url: /zh/publication/2026-07-13-multi-catheter-digitization/
 excerpt: "We propose a data-efficient, physics-guided framework that combines few-shot synthetic-to-real catheter segmentation with structure-aware tracking for robust and efficient multi-catheter digitization in CT-guided interstitial brachytherapy."
 date: 2026-07-13
 venue: "arXiv"

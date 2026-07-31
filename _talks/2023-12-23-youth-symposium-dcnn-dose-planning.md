@@ -2,7 +2,11 @@
 title: "Automatic Treatment Planning for Head and Neck Seed Implant Brachytherapy Based on a Deep Convolutional Neural Network Dose Engine"
 collection: talks
 type: "Talk"
+talk_type: "Talk"
 permalink: /talks/2023-12-23-youth-symposium-dcnn-dose-planning
+lang: en
+locale: en-US
+translation_url: /zh/talks/2023-12-23-youth-symposium-dcnn-dose-planning/
 venue: "Annual Youth Symposium on Medical Physics"
 date: 2023-12-23
 location: "Online"

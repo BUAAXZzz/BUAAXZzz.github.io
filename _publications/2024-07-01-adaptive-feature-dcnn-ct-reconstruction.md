@@ -3,6 +3,9 @@ title: "An Adaptive Feature Aggregation-Enhanced DCNN for Real-Time CT Reconstru
 collection: publications
 category: conferences
 permalink: /publication/2024-07-21-adaptive-feature-dcnn-ct-reconstruction
+lang: en
+locale: en-US
+translation_url: /zh/publication/2024-07-21-adaptive-feature-dcnn-ct-reconstruction/
 excerpt: 'This work presents an adaptive feature aggregation-enhanced deep convolutional neural network (DCNN) for real-time CT reconstruction and tumor segmentation from single X-ray projections, demonstrated at the AAPM 66th Annual Meeting.'
 date: 2024-07-21
 venue: 'Medical Physics (AAPM 66th Annual Meeting Abstract & Oral Presentation)'

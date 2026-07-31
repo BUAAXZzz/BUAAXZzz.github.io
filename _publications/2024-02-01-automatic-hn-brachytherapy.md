@@ -3,6 +3,9 @@ title: "Automatic planning for head and neck seed implant brachytherapy based on
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-01-automatic-hn-brachytherapy
+lang: en
+locale: en-US
+translation_url: /zh/publication/2024-02-01-automatic-hn-brachytherapy/
 excerpt: 'This paper presents an automatic treatment planning framework for head and neck seed implant brachytherapy, leveraging a deep convolutional neural network–based dose engine.'
 date: 2024-02-01
 venue: 'Medical Physics'

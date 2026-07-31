@@ -2,7 +2,11 @@
 title: "Study on Needle Path Localization Method for Intraoperative CT-Guided Seed Implantation"
 collection: talks
 type: "Talk"
+talk_type: "Talk"
 permalink: /talks/2021-05-21-ct-guided-seed-implantation
+lang: en
+locale: en-US
+translation_url: /zh/talks/2021-05-21-ct-guided-seed-implantation/
 venue: "17th Annual Conference of the Chinese Society of Medical Physics (CSMP 2021)"
 date: 2021-05-21
 location: "Wuhan, China"
