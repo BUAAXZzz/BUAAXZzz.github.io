@@ -7,7 +7,7 @@ translation_url: /
 title: "肖卓"
 description: "北京航空航天大学模式识别与智能系统专业博士研究生"
 ---
-我是来自北京航空航天大学图像处理中心的博士研究生（博三在读），导师为[周付根教授](https://dblp.org/pid/26/4854.html)和[刘博副教授](https://shi.buaa.edu.cn/liubo2/zh_CN/index/154719/list/index.htm)，同时也得到[Qiuwen Wu](https://radonc.duke.edu/profile/qiuwen-wu)教授（Duke University）的指导并与开展科研合作。我的研究方向包括医学影像分析、多模态大模型、手术自动计划、3D影像器械定位以及治疗计划系统（TPS）的研发，**其中多项成果已应用于临床实践**。
+我是来自北京航空航天大学图像处理中心的博士研究生（博三在读），导师为[周付根教授](https://dblp.org/pid/26/4854.html)和[刘博副教授](https://shi.buaa.edu.cn/liubo2/zh_CN/index/154719/list/index.htm)，同时也得到[Qiuwen Wu](https://radonc.duke.edu/profile/qiuwen-wu)教授（美国杜克大学）的指导并与开展科研合作。我的研究方向包括医学影像分析、多模态大模型、手术自动计划、3D影像器械定位以及治疗计划系统（TPS）的研发，**其中多项成果已应用于临床实践**。
 
 教育与经历
 ======
